@@ -274,6 +274,12 @@ ul {
     }
   }
 
+@media (max-width: 310px) {
+    .dobra-1-seta p {
+      font-size: 12px;
+    }
+  }
+
 
   /* Dobra 2 */
 
