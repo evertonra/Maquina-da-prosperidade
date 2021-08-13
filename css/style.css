@@ -270,13 +270,13 @@ ul {
       padding: 0em 0 0.5em 0;
     }
     .dobra-1-seta p {
-      font-size: 14px;
+      font-size: 12px;
     }
   }
 
 @media (max-width: 330px) {
     .dobra-1-seta p {
-      font-size: 12px;
+      font-size: 10px;
     }
   }
 
